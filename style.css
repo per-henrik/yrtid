@@ -7,3 +7,10 @@ body {
   font-family: 'd7mono';
   src: url('d7mono.ttf');
 }
+img {
+  width:100%
+}
+#tid {
+  font-size:140px;
+  text-align: center;
+}
